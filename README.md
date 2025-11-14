@@ -109,4 +109,3 @@ Monthly user cohorts and their purchasing behavior over time.
 ## License
 
 This project is open source and available for educational purposes.
-
